@@ -16,4 +16,4 @@
   - Bootstrap
   - Popular utility libraries like moment.js, lodash and similar
 - 🌱 I'm currently learning **Full Stack Development**
-- 📫 Reach me: [Citrusthecrazy](https://github.com/Citrusthecrazy)
+- 📫 Reach out: [Citrusthecrazy](https://www.linkedin.com/in/marko-drakulic-028092206/)
