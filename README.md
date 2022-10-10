@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi 👋, I'm Marko
+#### A Frontend Web Developer from Belgrade, Serbia
 
-<!--
-**Citrusthecrazy/Citrusthecrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ My favourite tech stack:
+  - Next
+  - React
+  - Typescript
+  - Tailwindcss
+  - React Query
+- ⚡️ I am experienced with:
+  - SCSS
+  - Styled Components
+  - MUI
+  - Redux
+  - Bootstrap
+  - Popular utility libraries like moment.js, lodash and similar
+- 🌱 I'm currently learning **Full Stack Development**
+- 📫 Reach me: [Citrusthecrazy](https://github.com/Citrusthecrazy)
